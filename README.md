@@ -1,4 +1,4 @@
-# Linux Kennal Modules
+# Linux Kernal Modules
 
 >[!warning]
 >Used Kernal : Linux 5.15.0-1079-azure
@@ -35,7 +35,7 @@ lsmod
 ```bash
 make -C /lib/modules/$(uname -r)/build M=$PWD
 ```
-> Build Kenal Modules
+> Build Kernal Modules
 
 ```bash
 sudo insmod simple.ko
