@@ -1,6 +1,11 @@
 # Linux Kennal Modules
 
+>[!warning]
+>Used Kernal : Linux 5.15.0-1079-azure
+
 ## How to start 
+
+
 
 if you use Azure CLI
 ```bash
